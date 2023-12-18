@@ -1,0 +1,5 @@
+model*.pkl
+__pycache__
+train
+models
+logs
